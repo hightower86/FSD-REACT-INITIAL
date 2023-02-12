@@ -6,4 +6,5 @@ export const component = () => {
   //   element.innerHTML = _.join(["Hello", "webpack"], " ");
 
   //   return element;
+  document.body.innerHTML = `<h1>Hello</h1>`
 }
